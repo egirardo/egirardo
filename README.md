@@ -10,7 +10,11 @@ I am an experienced, young professional with a strong foundation in agile method
 
 ## Languages, Technologies, and Tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,react,laravel,express,npm,nodejs,pug,bootstrap,vscode,rider,illustrator,photoshop,figma&perline=10)](https://skillicons.dev)
+### Languages & Technologies
+[![Languages & Frameworks](https://skillicons.dev/icons?i=js,html,css,php,cs,react,laravel,express,npm,nodejs,nextjs,pug,bootstrap,mysql&perline=10)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,rider,mongodb,illustrator,photoshop,figma&perline=10)](https://skillicons.dev)
 
 
 
